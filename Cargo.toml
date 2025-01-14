@@ -1,10 +1,10 @@
 [package]
-name = "rustdesk"
+name = "Infosec_Remote"
 version = "1.3.6"
-authors = ["rustdesk <info@rustdesk.com>"]
+authors = ["Infosec Remote <infosec@usm.my>"]
 edition = "2021"
 build= "build.rs"
-description = "RustDesk Remote Desktop"
+description = "Infosec Remote"
 default-run = "rustdesk"
 rust-version = "1.75"
 
